@@ -1,1 +1,1 @@
-This is the change from main branch.
+This file contains changes from both branches.
